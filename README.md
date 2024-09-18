@@ -20,7 +20,11 @@ Write about the understanding gained and how it was/can be applied to future lea
 3. DT1_Assignment_2:
    * This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning, due to this minigame being a bit more complex and having randomisation factors involved I had to plan out how the pins would spawn and where the missing pins would be etc... **(Insert the pin image here)** This image may not look like much but this is how I planned the pins spawn conditions [Documentation on this assignment](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing) 
      
-   * Planning skills are always important no-matter the subject, before every task I create a written plan in my notes, it's just simple scrappy notes but it helps me stress less about my workload, heres an example of what this looks like:
+   * Planning skills are always important no-matter the subject, before every task I create a written plan in my notes, it's just simple scrappy notes but it helps me stress less about my workload, heres a really dumbed down example of what this looks like:
+   * | Assignment | Issue | Solution and Time |
+| :---:       |  :----:     |     :----:    |
+| Game-Dev | Documentation | 1500 words therefore write 250 words a day **Approx 1 hour**|
+| Game-Dev | Project | Plan each item out and assign a goal to reach by the end of each day **Approx 2 hours a day**|
   
 5. DT1_Assignment_3:
    *
