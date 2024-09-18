@@ -14,7 +14,7 @@ Write about the current state of game dev and why the layoffs
    * Overall 
    
 3. DT1_Assignment_2:
-   * 
+   * This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole including things like programming, design, planning, documentation and more, 
    
 5. DT1_Assignment_3:
    * 
