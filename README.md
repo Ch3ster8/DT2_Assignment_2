@@ -9,6 +9,7 @@ Make the document interesting and fancy (For better grades)
 Write about the ethics (Why open source)
 Write about the current state of game dev and why the layoffs
 Write about the understanding gained and how it was/can be applied to future learning/assignments
+If you could redo past assignment with new knowledge :)
 
 1. DT1_Assignment_1:
    * My first assignment was to make a pizza ordering system, this assignment taught me some basic programming skills, and I gained some new skills around "for loops" and "lists" which helped me throughout some of my future assignments as "for loops" and "lists" are vital building blocks in code, here I used a "for loop" to iterate through a text file for my dialogue system in my fourth assignment **(Insert code here)**.
