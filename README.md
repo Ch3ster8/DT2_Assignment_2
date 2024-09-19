@@ -15,7 +15,7 @@ Saves
 Branching Decisions
 Documentation
 
-github.com/<organization>/<repository>/blob/<branch_name>/README.md? plain=1#L20
+https://github.com/git/git/blob/master/README.md?plain=1#L20
 
 1. DT1_Assignment_1:
    * **Write about the read and writing to files**
