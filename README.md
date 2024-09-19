@@ -43,16 +43,16 @@ Documentation
 | Game-Dev | Documentation | 1500 words therefore write 250 words a day **Approx 1 hour** |
 | Game-Dev | Project | Plan each item out and assign a goal to reach by the end of each day **Approx 2 hours a day per task** |
   
-<a name="Assignment 3"></a>
-# Assignment-3
+<a name="Assignment-3"></a>
+# Assignment 3
 
    * **A whole section on how to use these skills in the future**
    
-<a name="Assignment 4"></a>
-# Assignment-4
+<a name="Assignment-4"></a>
+# Assignment 4
    *
 
    * **A whole section on how to use these skills in the future**
 
-<a name="Ethics and Sustainability"></a>
-# Ethics-and-Sustainability
+<a name="Ethics-and-Sustainability"></a>
+# Ethics and Sustainability
