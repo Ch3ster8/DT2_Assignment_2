@@ -1,8 +1,8 @@
 # DT2_Assignment_2
-   * Explain the design process:
-   * Constraints and implications for decision-making:
-   * Explains technology theories, concepts and principles and describes the properties of materials or data or systems to address a need, problem, or challenge:
-   * Thinks critically, drawing on data and information to solve problems:
+  * Explain the design process:
+  * Constraints and implications for decision-making:
+  * Explains technology theories, concepts and principles and describes the properties of materials or data or systems to address a need, problem, or challenge:
+  * Thinks critically, drawing on data and information to solve problems:
   * The unit was designed to allow students to fail so that they can learn and improve their problem-solving
   * The unit is designed to be more general so that skills can transfer
   * Make the document interesting and fancy (For better grades)
