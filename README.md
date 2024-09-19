@@ -19,6 +19,7 @@ Documentation
    * [Assignment 2](#Assignment-2)
    * [Assignment 3](#Assignment-3)
    * [Assignment 4](#Assignment-4)
+   * [Ethics and Sustainability](#Ethics-and-Sustainability)
 
 <a name="Assignment-1"></a>
 # Assignment-1
@@ -52,3 +53,6 @@ Documentation
    *
 
    * **A whole section on how to use these skills in the future**
+
+<a name="Ethics and Sustainability"></a>
+# Ethics-and-Sustainability
