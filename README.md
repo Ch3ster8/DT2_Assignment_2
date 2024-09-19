@@ -15,7 +15,8 @@
   * Branching Decisions
   * Documentation
 
-1. **Table of Contents**:
+<a name="Table-of-Contents"></a>
+#Table of Contents
    * [Assignment 1](#Assignment-1)
    * [Assignment 2](#Assignment-2)
    * [Assignment 3](#Assignment-3)
