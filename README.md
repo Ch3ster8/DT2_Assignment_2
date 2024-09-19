@@ -14,7 +14,7 @@ Design Variable control
 Saves
 Branching Decisions
 Documentation
-<a name="custom_anchor_name"></a>
+<a name="Assignment-1"></a>
 # Assignment-1
 
 [Assignment 1](#Assignment_1)
