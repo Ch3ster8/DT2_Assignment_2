@@ -14,9 +14,9 @@ Design Variable control
 Saves
 Branching Decisions
 Documentation
-**Table of Contents**
-[Assignment 1](#Assignment-1)
-[Assignment 2](#Assignment-2)
+**Table of Contents**:
+  * [Assignment 1](#Assignment-1)
+  * [Assignment 2](#Assignment-2)
 
 <a name="Assignment-1"></a>
 # Assignment-1
