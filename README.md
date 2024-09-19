@@ -16,7 +16,7 @@
   * Documentation
 
 <a name="Table-of-Contents"></a>
-#Table of Contents
+# Table of Contents
    * [Assignment 1](#Assignment-1)
    * [Assignment 2](#Assignment-2)
    * [Assignment 3](#Assignment-3)
