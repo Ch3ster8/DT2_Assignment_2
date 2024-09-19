@@ -32,7 +32,9 @@
    * This assignment was designed to let students fail in order to learn and develop their understanding of programming, skills gained from this assignment were used in all my future assignments, for example, here's the code for my top-down movement script in my third assignment **(insert code)**, it's clear that this code is modular and there is no "spaghetti code" which demonstrates my application of learning from this assignment.
   
    * Skills learnt from this assignment can be used in the future by adapting the functions learnt from this assignment to future situations, an example of this would be using a "for loop" **Consider deleting assignment 1**
-
+   * **What the assignment was and what I learnt from it**
+   * **How I used these skills**
+   * **How to use these skills in the future**
 <a name="Assignment-2"></a>
 # Assignment 2
 
@@ -44,17 +46,21 @@
 | :---: |  :----: | :----: |
 | Game-Dev | Documentation | 1500 words therefore write 250 words a day **Approx 1 hour** |
 | Game-Dev | Project | Plan each item out and assign a goal to reach by the end of each day **Approx 2 hours a day per task** |
-  
+   * **What the assignment was and what I learnt from it**
+   * **How I used these skills**
+   * **How to use these skills in the future**
 <a name="Assignment-3"></a>
 # Assignment 3
-
-   * **A whole section on how to use these skills in the future**
+   * **What the assignment was and what I learnt from it**
+   * **How I used these skills**
+   * **How to use these skills in the future**
+   * This assignment was designed to teach students how to make save states. From this assignment I learnt how to make a save state however 
    
 <a name="Assignment-4"></a>
 # Assignment 4
-   *
-
-   * **A whole section on how to use these skills in the future**
+   * **What the assignment was and what I learnt from it**
+   * **How I used these skills**
+   * **How to use these skills in the future**
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
