@@ -16,7 +16,7 @@ Branching Decisions
 Documentation
 
 [Assignment 1](#Assignment_1)
-
+[Assignment 2](#Assignment_2)
 #Assignment_1
 1. DT1_Assignment_1:
    * **Write about the read and writing to files**
@@ -25,7 +25,8 @@ Documentation
    * This assignment was designed to let students fail in order to learn and develop their understanding of programming, skills gained from this assignment were used in all my future assignments, for example, here's the code for my top-down movement script in my third assignment **(insert code)**, it's clear that this code is modular and there is no "spaghetti code" which demonstrates my application of learning from this assignment.
   
    * Skills learnt from this assignment can be used in the future by adapting the functions learnt from this assignment to future situations, an example of this would be using a "for loop" **Consider deleting assignment 1**
-   
+
+#Assignment_2
 3. DT1_Assignment_2:
    * This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning, due to this minigame being a bit more complex and having randomisation factors involved I had to plan out how the pins would spawn and where the missing pins would be etc... **(Insert the pin image here)** This image may not look like much but this is how I planned the pins spawn conditions [Documentation on this assignment](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing) 
      
