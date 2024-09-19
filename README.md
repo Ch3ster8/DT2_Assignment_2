@@ -52,7 +52,7 @@
 <a name="Assignment-3"></a>
 # Assignment 3
    * This assignment was designed to teach students how to make save states. From this assignment, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work, rather than wasting a lot of time on sub features I instead needed to code the main gameplay loop before the main features such as save states, the reason is that I had made a [Saving System](save_controller.gd) however I had nothing to save with it which defeated the whole purpose of making it.
-   * 
+   * Unfortunately I didn't learn from my mistake with the assignment alone, when making [Assignment 4](#Assignment-4) I started with the [Dialogue System]() which is a main feature, however this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive.
    * **How to use these skills in the future**
    
 <a name="Assignment-4"></a>
