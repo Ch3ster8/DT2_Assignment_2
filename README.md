@@ -51,7 +51,7 @@
    * **How to use these skills in the future**
 <a name="Assignment-3"></a>
 # Assignment 3
-   * This assignment was designed to teach students how to make save states. From this assignment, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work, rather than wasting a lot of time on sub features I instead needed to code the main gameplay loop before the main features such as save states, the reason is that I had made a [Saving System]() however I had nothing to save with it which defeated the whole purpose of making it.
+   * This assignment was designed to teach students how to make save states. From this assignment, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work, rather than wasting a lot of time on sub features I instead needed to code the main gameplay loop before the main features such as save states, the reason is that I had made a [Saving System](save_controller.gd) however I had nothing to save with it which defeated the whole purpose of making it.
    * 
    * **How to use these skills in the future**
    
