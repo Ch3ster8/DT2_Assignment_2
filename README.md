@@ -21,8 +21,8 @@ Documentation
    * [Assignment 4](#Assignment-4)
    * [Ethics and Sustainability](#Ethics-and-Sustainability)
 
-<a name="Assignment 1"></a>
-# Assignment-1
+<a name="Assignment-1"></a>
+# Assignment 1
 
    * **Write about the read and writing to files**
    * My first assignment was to make a pizza ordering system, this assignment taught me some basic programming skills, and I gained some new skills around "for loops", "lists" and reading/writing to files which helped me throughout some of my future assignments as "for loops" and "lists" are vital building blocks in code, here I used a "for loop" to iterate through a text file for my dialogue system in my fourth assignment **(Insert code here)**. The 
@@ -31,8 +31,8 @@ Documentation
   
    * Skills learnt from this assignment can be used in the future by adapting the functions learnt from this assignment to future situations, an example of this would be using a "for loop" **Consider deleting assignment 1**
 
-<a name="Assignment 2"></a>
-# Assignment-2
+<a name="Assignment-2"></a>
+# Assignment 2
 
    * This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning, due to this minigame being a bit more complex and having randomisation factors involved I had to plan out how the pins would spawn and where the missing pins would be etc... **(Insert the pin image here)** This image may not look like much but this is how I planned the pins spawn conditions [Documentation on this assignment](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing) 
      
