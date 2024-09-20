@@ -24,7 +24,7 @@
    * [Ethics and Sustainability](#Ethics-and-Sustainability)
 
 <a name="Assignment-1"></a>
-# Assignment 1
+# Assignment 1 
 
    * **Write about the read and writing to files**
    * My first assignment was to make a pizza ordering system, this assignment taught me some basic programming skills, and I gained some new skills around "for loops", "lists" and reading/writing to files which helped me throughout some of my future assignments as "for loops" and "lists" are vital building blocks in code, here I used a "for loop" to iterate through a text file for my dialogue system in my fourth assignment **(Insert code here)**. The 
