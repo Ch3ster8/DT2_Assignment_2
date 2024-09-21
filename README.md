@@ -41,6 +41,7 @@
    * **What the assignment was and what I learnt from it**
    * **How I used these skills**
    * **How to use these skills in the future**
+   * **If I could redo this assignment**
    * [Table of Contents](#Table-of-Contents)
 <a name="Assignment-2"></a>
 # Assignment 2 (Minigame)
@@ -51,10 +52,15 @@
 | Assignment | Issue | Solution and Time |
 | :---: |  :----: | :----: |
 | Game-Dev | Documentation | 1500 words therefore write 250 words a day **Approx 1 hour** |
-| Game-Dev | Project | Plan each item out and assign a goal to reach by the end of each day **Approx 2 hours a day per task** |
+| Game-Dev | Item 1 | Finish by Friday **Approx 30 minutes a day** |
+| Game-Dev | Item 2 | Finish by Monday **Approx 15 minutes a day** |
+| Game-Dev | Item 3 | Finish by Wednesday **Approx 20 minutes a day** |
+| Game-Dev | In general | Plan each item out and assign a goal to reach by the end of each day |
+
    * **What the assignment was and what I learnt from it**
    * **How I used these skills**
    * **How to use these skills in the future**
+   * **If I could redo this assignment**
    * [Table of Contents](#Table-of-Contents)
 <a name="Assignment-3"></a>
 # Assignment 3 (Save States)
@@ -70,6 +76,7 @@
    * **What the assignment was and what I learnt from it**
    * **How I used these skills**
    * **How to use these skills in the future**
+   * **If I could redo this assignment**
    * [Table of Contents](#Table-of-Contents)
 
 <a name="Ethics-and-Sustainability"></a>
