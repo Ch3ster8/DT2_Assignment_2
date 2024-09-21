@@ -51,8 +51,8 @@
    * **How to use these skills in the future**
 <a name="Assignment-3"></a>
 # Assignment 3
-   * This assignment was designed to teach students how to make save states. From this assignment, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work, rather than wasting a lot of time on sub features I instead needed to code the main gameplay loop before the main features such as save states, the reason is that I had made a [Saving System](save_controller.gd) however I had nothing to save with it which defeated the whole purpose of making it.
-   * Unfortunately I didn't learn from my mistake with the assignment alone, when making [Assignment 4](#Assignment-4) I started with the [Dialogue System]() which is a main feature, however, this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
+   * This assignment was designed to teach students how to make save states, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work. But I had an issue, rather than wasting a lot of time on sub-features I instead needed to code the main gameplay loop first, the reason is that I had made a [Saving System](save_controller.gd) however I had nothing to save with it which defeated the whole purpose of making it.
+   * Unfortunately I didn't learn from my mistake with this assignment alone. When making [Assignment 4](#Assignment-4) I started with the [Dialogue System]() which is a main feature, however, this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
    * **How to use these skills in the future** 
    
 <a name="Assignment-4"></a>
@@ -63,3 +63,9 @@
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
+   * Players are the most vital part of game development, and listening to them is the key to a good game. It is important to respect players and get consent for everything that might infringe on their privacy, this is an ethical consideration that a lot of games in the industry do not take into consideration and instead, they take the players' data and sell it to third party sources.
+   * A major advantage of game development is the wide audience it reaches as developers can use this audience to share their stories and spread enjoyment to a large sum of people, however with this comes some drawbacks, companies/individuals that don't respect players can use this platform to spread harmful information and can also change the way players' act outside of the game, this is why some studies show that games can increase violence in players'.
+   * It is crucial that all games follow a strict ethical code to ensure the safety of players, **(Integrity)** The act of being honest and having strong moral principles, **(Transparency)** The act of being as clear as possible to the players' to ensure no miscommunication or hidden secrets, **(Respect for players’ rights and autonomy)** The act of respecting a players's right and understanding that players' are autonomous and can't be controlled.
+
+# Bibliography
+   * https://medium.com/@karthikbindumon/ethical-considerations-in-game-design-dfb216f21249
