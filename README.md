@@ -73,6 +73,7 @@
    
 <a name="Assignment-4"></a>
 # Assignment 4 (Dialogue)
+   *
    * **What the assignment was and what I learnt from it**
    * **How I used these skills**
    * **How to use these skills in the future**
