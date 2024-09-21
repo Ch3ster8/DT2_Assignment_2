@@ -1,4 +1,4 @@
-# DT2_Assignment_2
+# Planning
   * Explain the design process:
   * Constraints and implications for decision-making:
   * Explains technology theories, concepts and principles and describes the properties of materials or data or systems to address a need, problem, or challenge:
@@ -16,7 +16,7 @@
     
   * Write about the understanding gained and how it was/can be applied to future learning/assignments
     
-  * _**If you could redo past assignments with new knowledge :)**_
+  * _**If you could redo past assignments with new knowledge**_
 
 <a name="Table-of-Contents"></a>
 # Table of Contents
