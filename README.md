@@ -29,7 +29,7 @@
 # Assignment 2 (Minigame) [Documentation](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing)
    * **What the assignment was and what I learnt from it** This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole, including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning as it was the skill I most needed to work on.
    
-   * **Explain the design Process YEAH I REALLY GOTTA REDO THIS ONE** I started by figuring out the main idea for my minigame and ended up choosing the lockpicking minigame from [Starfield](https://bethesda.net/en/game/starfield). I chose to start coding one circle <a href="url"><img src="https://github.com/user-attachments/assets/e91de4c4-c92e-4002-aee0-31b758b46cf2" align="right" height="240" width="427" ></a> instead of both at the same time, this came with an issue when coding the second circle, I had to replan the pins spawn conditions entirely.
+   * **Explain the design Process YEAH I REALLY GOTTA REDO THIS ONE** <a href="url"><img src="https://github.com/user-attachments/assets/e91de4c4-c92e-4002-aee0-31b758b46cf2" align="right" height="240" width="427" ></a> I started by figuring out the main idea for my minigame and ended up choosing the lockpicking minigame from [Starfield](https://bethesda.net/en/game/starfield). I chose to start coding one circle  instead of both at the same time, this came with an issue when coding the second circle, I had to replan the pins spawn conditions entirely.
 
    * **Constraints for decision making** Due to this minigame being a bit more complex and having randomisation factors involved I had to plan out how the pins would spawn and where the missing pins would be etc... [Plan](Pins-Docu.md) This is how I planned the pins spawn conditions, I decided to plan this way because I wanted to learn how to use [Aseprite](https://www.aseprite.org/) at the time, this allowed me to learn [Aseprite](https://www.aseprite.org/) and use it for future projects.
      
@@ -50,14 +50,14 @@
    * [Table of Contents](#Table-of-Contents)
 
 <a name="Assignment-3"></a>
-# Assignment 3 (Save States) [Documentation](
+# Assignment 3 (Save States) [Documentation](https://docs.google.com/document/d/1oKG_SgVptfr3FlIjtfTagEakSAonJlZFscl0Sa1Ja-Q/edit?usp=sharing)
    * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make save states, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work. But I had an issue, I wasted too much time making the main feature (Saving) and by the time I had made a [Saving System](save_controller.gd) I had nothing to save with it which defeated the whole purpose of making it.
      
    * **How I used these skills** Unfortunately I didn't learn from my main mistake with this assignment. When making [Assignment 4](#Assignment-4) I started with the [Dialogue System](Dialogue.gd) which was the main feature, however, this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
      
    * **Explain the design Process** Learning from [Assignment 2 (Minigame)](#Assignment-2), my design process started with planning, however as previously mentioned I did not fully plan from start to finish which became a big issue. After needing improvement planning I got to work on the project, coding the saving system and AI for enemies, etc.. In class I had multiple students test my project and give feedback, as a developer it hurt to hear what I thought was good be criticized but it was necessary to take the game to the next level, I then applied that feedback and finalized the project with a few small iterations.
      
-   * **Constraints for decision making** The main constraint that I had whilst making this project was 'Time', I did not realise that my project was too ambitious until it was too late, <a href="url"><img src="failed-shop.png" align="right" height="240" width="427" ></a>
+   * **Constraints for decision making** <a href="url"><img src="failed-shop.png" align="right" height="240" width="427" ></a> The main constraint that I had whilst making this project was 'Time', I did not realise that my project was too ambitious until it was too late. This image shows the shop that I tried to implement into the game but quickly ran out of time and had to completely scrap.
      
    * **How to use these skills in the future**
      
