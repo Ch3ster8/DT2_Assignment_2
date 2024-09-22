@@ -84,20 +84,22 @@
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
-   * Players are the most vital part of game development, and listening to them is the key to a good game. It is important to respect players and get consent for everything that might infringe on their privacy, this is an ethical consideration that a lot of games in the industry do not take into consideration and instead, they take the players' data and sell it to third party sources.
+   * Players are the most vital part of game development, and listening to them is the key to a good game. It is important to respect players and get consent for everything that might infringe on their privacy, this is an ethical consideration that a lot of games in the industry do not take into consideration and instead, they take the players' data and sell it to third party sources. (Bindumon, 2023)
      
    * A major advantage of game development is the wide audience it reaches as developers can use this audience to share their stories and spread enjoyment to a large sum of people, however with this comes some drawbacks, companies/individuals that don't respect players can use this platform to spread harmful information and can also change the way players' act outside of the game, this is why some studies show that games can increase violence in players'.
      
-   * It is crucial that all games follow a strict ethical code to ensure the safety of players, **(Integrity)** The act of being honest and having strong moral principles, **(Transparency)** The act of being as clear as possible to the players' to ensure no miscommunication or hidden secrets, **(Respect for players’ rights and autonomy)** The act of respecting a players's right and understanding that players' are autonomous and can't be controlled.
+   * It is crucial that all games follow a strict ethical code to ensure the safety of players, **(Integrity)** The act of being honest and having strong moral principles, **(Transparency)** The act of being as clear as possible to the players' to ensure no miscommunication or hidden secrets, **(Respect for players’ rights and autonomy)** The act of respecting a players's right and understanding that players' are autonomous and can't be controlled. (Bindumon, 2023)
    
-   * **Write about the current state of game dev and why the layoffs**
+   * Due to COVID-19's effect on the world there was a large demand for staff in the tech industry, and a lot of gamers being forced to stay at home meant a lot of profit for the gaming industry, however when COVID-19 ended there was a massive drop in demand for games and thus the gaming industry had to start laying off staff to cut down costs back to what they were before COVID-19, this scared a lot of people away from the industry and was not ethical at all. (Stuart, 2024)
    
    * [Table of Contents](#Table-of-Contents)
 
 <a name="Short-Conclusion"></a>
 # Short Conclusion
    * This assignment itself has also given me a good understanding of what I need to improve and I hope to show my improvement with my future assignments.
+   * Planning is my biggest flaw as I keep choosing the main systems over designing gameplay, I also need to account for time more cautiously as it moves fast and I keep running out of time.
 
 # Bibliography
-   * https://medium.com/@karthikbindumon/ethical-considerations-in-game-design-dfb216f21249
-   * https://www.rockpapershotgun.com/starfield-lockpicking
+   * Bindumon, K. (2023). Ethical Considerations in Game Design. [online] Medium. Available at: https://medium.com/@karthikbindumon/ethical-considerations-in-game-design-dfb216f21249.
+   * Stuart, K. (2024). Why is the $180bn games industry shedding thousands of staff? The Guardian. [online] 8 Feb. Available at: https://www.theguardian.com/games/2024/feb/08/why-is-the-games-industry-shedding-staff-epic-games-activision-blizzard.
+   * Toms, O. (2023). Starfield lockpicking: How to pick locks easily. [online] Rock Paper Shotgun. Available at: https://www.rockpapershotgun.com/starfield-lockpicking [Accessed 22 Sep. 2024].
