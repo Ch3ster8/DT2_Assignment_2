@@ -68,7 +68,7 @@
 
    * **How to use these skills in the future** Whenever I plan something I usually plan the main features and leave out the gameplay, this has resulted in not a single game I've made being fun, so from now onwards I will plan the gameplay first but also plan the entirety of the project right at the start, with deadlines and allowing for extra time for safety. In turn, this will improve my workflow and allow me to get straight onto the task instead of planning along the way and working gameplay into it.
 
-   * **If I could redo this assignment** If I could redo this assignment I would 
+   * **If I could redo this assignment** If I could redo this assignment I would plan out the entire assignment right at the beginning before I even touched any game development tools, this would have saved me countless hours of issues that revolved around planning the pins and coding the circles and even more. Planning was something I lacked whilst making this assignment but it is also something that this assignment taught me.
      
    * [Table of Contents](#Table-of-Contents)
 <a name="Assignment-3"></a>
