@@ -1,3 +1,4 @@
+**EVIDENCE, NOT WORD COUNT**
 ```py
 var dir = DirAccess.open("user://")
 	if !dir.dir_exists("user://GameSave"):
