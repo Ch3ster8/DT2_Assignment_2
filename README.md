@@ -5,6 +5,7 @@
    * [Assignment 4 (Dialogue)](#Assignment-4)
    * [Ethics and Sustainability](#Ethics-and-Sustainability)
    * [Short Conclusion](#Short-Conclusion)
+   * [Bibliography](#Bibliography)
      
 <a name="Assignment-2"></a>
 # [Assignment 2](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing) (Minigame)
@@ -36,11 +37,11 @@
      
    * Unfortunately I didn't learn from my mistakes with this assignment. When making [Assignment 4](#Assignment-4) I started with the [Dialogue System](Dialogue.gd) which was the main feature, however, this system took so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
      
-   * Learning from [Assignment 2 (Minigame)](#Assignment-2), my design process started with planning, however as previously mentioned I did not fully plan from start to finish which became a big issue. After needing improvement planning I got to work on the project, coding the saving system and AI for enemies, etc.. In class I had multiple students test my project and give feedback, as a developer it hurt to hear what I thought was good be criticized but it was necessary to take the game to the next level, I then applied that feedback and finalized the project with a few small iterations.
+   * Learning from [Assignment 2 (Minigame)](#Assignment-2), my design process started with planning, however, as previously mentioned I did not fully plan which became a big issue. After roughly planning I worked on the project, coding the saving system and AI for enemies, etc. In class I had multiple students test my project and give feedback, as a developer it hurt to hear what I thought was good be criticized but it was necessary to take the game to the next level, I then applied that feedback and finalized the project with a few small iterations.
      
-   * <a href="url"><img src="failed-shop.png" align="right" height="240" width="427" ></a> The main constraint that I had whilst making this project was 'Time', I did not realise that my project was too ambitious until it was too late. This image shows the shop that I tried to implement into the game but quickly ran out of time and had to completely scrap. **Come back to this**
+   * <a href="url"><img src="failed-shop.png" align="right" height="240" width="427" ></a> The main constraint that I had whilst making this project was 'Time', I did not realise that my project was too ambitious until it was too late. This image shows the shop that I tried to implement into the game but ran out of time and had to scrap.
      
-   * Saving is a key part of a lot of games, it allows the player to not risk losing all their progress at once and lets the player explore varying options throughout the game risk-free, this encourages player choice and increases player enjoyment. Now that I have made a saving system I understand the fundamentals and can apply this knowledge to future projects to allow them to save as well.
+   * Saving is a key part of a lot of games, it allows the player to not risk losing all their progress at once and lets the player explore varying options throughout the game risk-free, this encourages player choice and increases player enjoyment. Having made a saving system I understand the fundamentals and can apply this knowledge to future projects to allow them to save as well.
      
    * Just like how I would redo [Assignment 2 (Minigame)](#Assignment-2), I would also cater more time into the documentation of this assignment, A key issue I found with all my documentation up until this point is not asking 'Why', Reading [this](snippet.md) it is very clear that I am just writing exactly what I did, here is a rough example of how I would have rewritten [that](new-snippet.md), this is much more telling, it gives more information to the reader and doesn't explain each line of the code directly. After I write all my documentation I re-read it and ask myself "Why?" if I haven't explained something I'll write the 'Why'.
      
