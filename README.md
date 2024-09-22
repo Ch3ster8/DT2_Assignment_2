@@ -24,6 +24,7 @@
    * [Assignment 3 (Save States)](#Assignment-3)
    * [Assignment 4 (Dialogue)](#Assignment-4)
    * [Ethics and Sustainability](#Ethics-and-Sustainability)
+   * [Short Conclusion](#Short-Conclusion)
      
 <a name="Assignment-2"></a>
 # [Assignment 2](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing) (Minigame)
@@ -67,11 +68,11 @@
    
 <a name="Assignment-4"></a>
 # [Assignment 4](https://github.com/Ch3ster8/DT2_Assignment_1) (Dialogue)
-   * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make branching decisions so I decided to make a story game based completely around dialogue, unlike other students in the class I wanted to make my own [Dialogue System](Dialogue.gd) which allowed me to learn what really goes into a branching decision.
+   * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make branching decisions so I decided to make a story game based completely around dialogue, unlike other students in the class I wanted to make my own [Dialogue System](Dialogue.gd) which allowed me to learn what really goes into making branching decisions.
      
-   * **Explain the design Process**
+   * **Explain the design Process** My design process for this assignment was pretty much identical to that of [Assignment 3 (Save States)](#Assignment-3) minus the enemies, AI and saving system but instead replacing them with the [Dialogue System](Dialogue.gd), movement, UI and more.
      
-   * **Constraints for decision making**
+   * **Constraints for decision making** <a href="url"><img src="failed-sheep.png" align="right" height="240" width="427" ></a> After a long break between assignments I seemed to have forgotten what I had learnt, I ran into much the same issue as [Assignment 3 (Save States)](#Assignment-3) and wasn't able to complete all of the branching decisions, so instead I wrote extra dialogue saying to restart if nothing happened and instructing the player how to get past this issue. This was unintuitive and lacked much of any gameplay, 
      
    * **How I used these skills**
      
@@ -92,6 +93,10 @@
    * **Write about the current state of game dev and why the layoffs**
    
    * [Table of Contents](#Table-of-Contents)
+
+<a name="Short-Conclusion"></a>
+# Short Conclusion
+   * This assignment itself has also given me a good understanding of what I need to improve and I hope to show my improvement with my future assignments.
 
 # Bibliography
    * https://medium.com/@karthikbindumon/ethical-considerations-in-game-design-dfb216f21249
