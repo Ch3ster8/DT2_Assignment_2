@@ -20,33 +20,10 @@
 
 <a name="Table-of-Contents"></a>
 # Table of Contents
-   * [Assignment 1 (Pizza Ordering System)](#Assignment-1)
    * [Assignment 2 (Minigame)](#Assignment-2)
    * [Assignment 3 (Save States)](#Assignment-3)
    * [Assignment 4 (Dialogue)](#Assignment-4)
    * [Ethics and Sustainability](#Ethics-and-Sustainability)
-
-<a name="Assignment-1"></a>
-# Assignment 1 (Pizza Ordering System)
-
-   **I AM 100% DELETING ASSIGNMENT 1**
-   * **Write about the read and writing to files**
-     
-   * My first assignment was to make a pizza ordering system, this assignment taught me some basic programming skills, and I gained some new skills around "for loops", "lists" and reading/writing to files which helped me throughout some of my future assignments as "for loops" and "lists" are vital building blocks in code, here I used a "for loop" to iterate through a text file for my dialogue system in my fourth assignment **(Insert code here)**. The
-     
-   * Looking back on my code for this assignment, I learnt some crucial skills around modular coding. When making this assignment I had a lot of bugs and overall issues editing the code and adding on to it, every single line was tangled amongst other lines, which is what most developers call "spaghetti code", thanks to this assignment, it allowed me to learn how I failed and how to fix my mistakes, now all my functions are modular, rather than having a lot of functions like this one **(insert function here)**, I could have made a single master function like this one **(Insert better function here)** and just used the arguments to control the functions, this is what I currently do for all my code and without this assignment, I wouldn't have developed this understanding until later down the line.
-     
-   * This assignment was designed to let students fail in order to learn and develop their understanding of programming, skills gained from this assignment were used in all my future assignments, for example, here's the code for my top-down movement script in my third assignment **(insert code)**, it's clear that this code is modular and there is no "spaghetti code" which demonstrates my application of learning from this assignment.
-  
-   * Skills learnt from this assignment can be used in the future by adapting the functions learnt from this assignment to future situations, an example of this would be using a "for loop" **Consider deleting assignment 1**
-     
-   * **Explain the design Process**
-   * **Constraints for decision making**
-   * **What the assignment was and what I learnt from it**
-   * **How I used these skills**
-   * **How to use these skills in the future**
-   * **If I could redo this assignment**
-   * [Table of Contents](#Table-of-Contents)
      
 <a name="Assignment-2"></a>
 # Assignment 2 (Minigame) [Documentation](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing)
@@ -71,11 +48,12 @@
    * **If I could redo this assignment** If I could redo this assignment I would plan out the entire assignment right at the beginning before I even touched any game development tools, this would have saved me countless hours of issues that revolved around planning the pins and coding the circles and even more. Planning was something I lacked whilst making this assignment but it is also something that this assignment taught me.
      
    * [Table of Contents](#Table-of-Contents)
+
 <a name="Assignment-3"></a>
 # Assignment 3 (Save States)
-   * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make save states, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work. But I had an issue, **Refactor this to not explain how to fix it but instead whats wrong** rather than wasting a lot of time on sub-features I instead needed to code the main gameplay loop first, the reason is that I had made a [Saving System](save_controller.gd) however I had nothing to save with it which defeated the whole purpose of making it.
+   * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make save states, however, this assignment didn't only teach me how to make save states but also almost every part of a game, I had to create the UI, Art, Sound, Gameplay and more, and this taught me a lot about making games and improved my workflow for future work. But I had an issue, I wasted too much time making the main feature (Saving) and by the time I had made a [Saving System](save_controller.gd) I had nothing to save with it which defeated the whole purpose of making it.
      
-   * **How I used these skills** Unfortunately I didn't learn from my mistake with this assignment alone. When making [Assignment 4](#Assignment-4) I started with the [Dialogue System](Dialogue.gd) which is a main feature, however, this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
+   * **How I used these skills** Unfortunately I didn't learn from my mistake with this assignment alone. When making [Assignment 4](#Assignment-4) I started with the [Dialogue System](Dialogue.gd) which was the main feature, however, this system took me so long that I had very little time to make the gameplay fun, interactive and intuitive. This issue is my biggest flaw as of current and has affected all of my work, whether its personal or school work.
      
    * **Explain the design Process**
      
