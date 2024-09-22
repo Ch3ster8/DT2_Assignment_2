@@ -50,9 +50,10 @@
      
 <a name="Assignment-2"></a>
 # Assignment 2 (Minigame)
-   * **What the assignment was and what I learnt from it** This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole, including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning
+   * **What the assignment was and what I learnt from it** This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole, including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning as it was the skill I most needed to work on.
    
-   * **Explain the design Process**
+   * **Explain the design Process** I started by figuring out the main idea for my minigame and ended up choosing the lockpicking minigame from Starfield. I chose to start coding one circle <img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/e91de4c4-c92e-4002-aee0-31b758b46cf2)" width="250">
+ 
      
    * **Constraints for decision making** Due to this minigame being a bit more complex and having randomisation factors involved I had to plan out how the pins would spawn and where the missing pins would be etc... **(Insert the pin image here)** This image may not look like much but this is how I planned the pins spawn conditions [Documentation on this assignment](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing), I decided to plan this way because I wanted to learn how to use [Aseprite](https://www.aseprite.org/) at the time, this allowed me to learn [Aseprite](https://www.aseprite.org/) and use it for future projects.
      
@@ -107,3 +108,4 @@
 
 # Bibliography
    * https://medium.com/@karthikbindumon/ethical-considerations-in-game-design-dfb216f21249
+   * https://www.rockpapershotgun.com/starfield-lockpicking
