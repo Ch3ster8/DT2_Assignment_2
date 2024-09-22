@@ -67,12 +67,18 @@
    
 <a name="Assignment-4"></a>
 # [Assignment 4](https://github.com/Ch3ster8/DT2_Assignment_1) (Dialogue)
+   * **What the assignment was and what I learnt from it** This assignment was designed to teach students how to make branching decisions so I decided to make a story game based completely around dialogue, unlike other students in the class I wanted to make my own [Dialogue System](Dialogue.gd) which allowed me to learn what really goes into a branching decision.
+     
    * **Explain the design Process**
+     
    * **Constraints for decision making**
-   * **What the assignment was and what I learnt from it**
+     
    * **How I used these skills**
+     
    * **How to use these skills in the future**
-   * **If I could redo this assignment** If I could redo this assignment I would 
+     
+   * **If I could redo this assignment** If I could redo this assignment I would
+     
    * [Table of Contents](#Table-of-Contents)
 
 <a name="Ethics-and-Sustainability"></a>
