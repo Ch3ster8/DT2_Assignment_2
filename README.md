@@ -49,7 +49,7 @@
    * [Table of Contents](#Table-of-Contents)
      
 <a name="Assignment-2"></a>
-# Assignment 2 (Minigame)
+# Assignment 2 (Minigame) [Documentation](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing)
    * **What the assignment was and what I learnt from it** This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole, including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning as it was the skill I most needed to work on.
    
    * **Explain the design Process** I started by figuring out the main idea for my minigame and ended up choosing the lockpicking minigame from Starfield. I chose to start coding one circle <a href="url"><img src="https://github.com/user-attachments/assets/e91de4c4-c92e-4002-aee0-31b758b46cf2" align="right" height="240" width="427" ></a> instead of both at the same time, this came with an issue when coding the second circle, I had to replan the pins spawn conditions entirely.
@@ -66,9 +66,9 @@
      | Game-Dev | Item 3 | Finish by Wednesday **Approx 20 minutes a day** |
      | Game-Dev | In general | Plan each item out and assign a goal to reach by the end of each day |
 
-   * **How to use these skills in the future** 
+   * **How to use these skills in the future** Whenever I plan something I usually plan the main features and leave out the gameplay, this has resulted in not a single game I've made being fun, so from now onwards I will plan the gameplay first but also plan the entirety of the project right at the start, with deadlines and allowing for extra time for safety. In turn, this will improve my workflow and allow me to get straight onto the task instead of planning along the way and working gameplay into it.
 
-   * **If I could redo this assignment**
+   * **If I could redo this assignment** If I could redo this assignment I would 
      
    * [Table of Contents](#Table-of-Contents)
 <a name="Assignment-3"></a>
@@ -83,7 +83,7 @@
      
    * **How to use these skills in the future**
      
-   * **If I could redo this assignment**
+   * **If I could redo this assignment** If I could redo this assignment I would 
    * [Table of Contents](#Table-of-Contents)
    
 <a name="Assignment-4"></a>
@@ -93,7 +93,7 @@
    * **What the assignment was and what I learnt from it**
    * **How I used these skills**
    * **How to use these skills in the future**
-   * **If I could redo this assignment**
+   * **If I could redo this assignment** If I could redo this assignment I would 
    * [Table of Contents](#Table-of-Contents)
 
 <a name="Ethics-and-Sustainability"></a>
