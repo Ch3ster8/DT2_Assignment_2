@@ -47,6 +47,7 @@
    * **How to use these skills in the future**
    * **If I could redo this assignment**
    * [Table of Contents](#Table-of-Contents)
+     
 <a name="Assignment-2"></a>
 # Assignment 2 (Minigame)
    * **What the assignment was and what I learnt from it** This task was to make a minigame, it was designed to allow students to grasp subparts of game development as a whole, including things like programming, design, planning, documentation and more, this is to let students have more of an insight into game development to allow them to specialise into the subpart of their choice later on. The main skill I learnt from this assignment was planning
