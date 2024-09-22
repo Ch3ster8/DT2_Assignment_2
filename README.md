@@ -72,13 +72,13 @@
      
    * **Explain the design Process** My design process for this assignment was pretty much identical to that of [Assignment 3 (Save States)](#Assignment-3) minus the enemies, AI and saving system but instead replacing them with the [Dialogue System](Dialogue.gd), movement, UI and more.
      
-   * **Constraints for decision making** <a href="url"><img src="failed-sheep.png" align="right" height="240" width="427" ></a> After a long break between assignments I seemed to have forgotten what I had learnt, I ran into much the same issue as [Assignment 3 (Save States)](#Assignment-3) and wasn't able to complete all of the branching decisions, so instead I wrote extra dialogue saying to restart if nothing happened and instructing the player how to get past this issue. This was unintuitive and lacked much of any gameplay, 
+   * **Constraints for decision making** <a href="url"><img src="failed-sheep.png" align="right" height="240" width="427" ></a> After a long break between assignments I seemed to have forgotten what I had learnt, I ran into much the same issue as [Assignment 3 (Save States)](#Assignment-3) and wasn't able to complete all of the branching decisions, so instead I wrote extra dialogue saying to restart if nothing happened and instructing the player how to get past this issue. This was unintuitive and lacked much of any gameplay, many of my decisions revolved around a lack of time, basically finding the quickest option.
      
-   * **How I used these skills**
+   * **How I used these skills** Within the game I adapted the terrain to be its own branching decision, this was done after making the [Dialogue System](Dialogue.gd) as my learning of branching decisions came from that system and all I had to do was apply that knowledge.
      
-   * **How to use these skills in the future**
+   * **How to use these skills in the future** Branching decisions can be found everywhere throughout the gaming industry, take [Undertale](https://undertale.com), while branching decisions aren't its main focus it does include multiple endings depending on how you interact with enemies, this feature ended up being one of [Undertale's](https://undertale.com) main selling factor, this shows just how important this newfound skill truly is and how I apply it to future projects depends on the game.
      
-   * **If I could redo this assignment** If I could redo this assignment I would
+   * **If I could redo this assignment** If I could redo this assignment I would take more time at the start to plan out the branching decisions I wanted so that I could race through and design the levels, make the characters, and do the di
      
    * [Table of Contents](#Table-of-Contents)
 
