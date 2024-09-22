@@ -62,7 +62,7 @@
      
    * **How to use these skills in the future** Saving is a key part of a lot of games, it allows the player to not risk losing all their progress at once and lets the player explore varying options throughout the game risk-free, this encourages player choice and increases player enjoyment. Now that I have made a saving system I understand the fundamentals and can apply this knowledge to future projects to allow them to save as well.
      
-   * **If I could redo this assignment** Just like how I would redo [Assignment 2 (Minigame)](#Assignment-2), I would also cater more time into the documentation of this assignment, A key issue I found with all my documentation up until this point is not asking 'Why', Reading [this](snippet.md) it is very clear that I am just writing exactly what I did, here is a rough example of how I would have rewrote [that](new-snippet.md), this is much more telling, it gives more information to the reader and doesn't explain each line of the code directly. After I write all my documentation I re-read it and ask myself "Why?" if I haven't explained something I'll write the 'Why'.
+   * **If I could redo this assignment** Just like how I would redo [Assignment 2 (Minigame)](#Assignment-2), I would also cater more time into the documentation of this assignment, A key issue I found with all my documentation up until this point is not asking 'Why', Reading [this](snippet.md) it is very clear that I am just writing exactly what I did, here is a rough example of how I would have rewritten [that](new-snippet.md), this is much more telling, it gives more information to the reader and doesn't explain each line of the code directly. After I write all my documentation I re-read it and ask myself "Why?" if I haven't explained something I'll write the 'Why'.
      
    * [Table of Contents](#Table-of-Contents)
    
@@ -78,7 +78,7 @@
      
    * **How to use these skills in the future** Branching decisions can be found everywhere throughout the gaming industry, take [Undertale](https://undertale.com), while branching decisions aren't its main focus it does include multiple endings depending on how you interact with enemies, this feature ended up being one of [Undertale's](https://undertale.com) main selling factor, this shows just how important this newfound skill truly is and how I apply it to future projects depends on the game.
      
-   * **If I could redo this assignment** If I could redo this assignment I would take more time at the start to plan out the branching decisions I wanted so that I could race through and design the levels, make the characters, and do the di
+   * **If I could redo this assignment** If I could redo this assignment I would take more time at the start to plan out the branching decisions I wanted so that I could race through and design the levels, make the characters, and do the gameplay.
      
    * [Table of Contents](#Table-of-Contents)
 
