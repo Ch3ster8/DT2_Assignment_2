@@ -1,4 +1,5 @@
 **NOTE THIS IS COPIED FROM THE ORIGINAL DOCUMENTATION AND THIS WILL NOT BE INCLUDED IN THE WORD COUNT**
+[Documentation](https://docs.google.com/document/d/1NOPSS31VhK3m1wPlNjfQJaF2LzBFg1Mv6ji6-1DQa3Y/edit?usp=sharing)
 
 ![Pins-Image](pins-image.png)
 
